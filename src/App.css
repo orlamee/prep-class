@@ -117,7 +117,7 @@ li.nav-item {
   and (-webkit-min-device-pixel-ratio: 1.5) {
   .banner-inner{
     position: absolute;
-    left: 33;
+    left: 33px;
     top: 10%;
     width: 100%;
     text-align: center;
